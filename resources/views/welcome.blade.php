@@ -247,7 +247,7 @@
                 <!-- Single Service -->
                 <div class="single-service">
 
-                    <img src="KRA_Portal.webp" width="200" height="200">
+                    <img src="Kra_Portal.webp" width="200" height="200">
 
                     <br><br>
 
@@ -296,7 +296,7 @@
                 <!-- Single Service -->
                 <div class="single-service">
 
-                    <img src="KRA_Portal.webp" width="200" height="200">
+                    <img src="Kra_Portal.webp" width="200" height="200">
 
                     <br><br>
 
