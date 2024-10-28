@@ -19,7 +19,7 @@
                     <div class="col-lg-6 col-md-7 col-12">
                         <div class="hero-text">
                             <h1>Fast and Affordable Digital Solutions</h1>
-                            <p>At Nachosun Ke-Nya Cyber, we offer document scanning, passport preparation, KRA PIN
+                            <p>At Nachosun Ke-Nya, we offer document scanning, passport preparation, KRA PIN
                                 retrieval, and other online services, all at unbeatable prices. Experience efficiency
                                 and reliability with us.</p>
                             <div class="button">
@@ -39,7 +39,7 @@
                     <div class="col-lg-6 col-md-7 col-12">
                         <div class="hero-text">
                             <h1>Effortless KRA PIN Retrieval</h1>
-                            <p>Need help with KRA PIN services? We’ve got you covered. Nachosun Ke-Nya Cyber makes the
+                            <p>Need help with KRA PIN services? We’ve got you covered. Nachosun Ke-Nya makes the
                                 process quick and easy, from retrieval to password management.</p>
                             <div class="button">
                                 <a href="#services" class="btn">Explore Our Services</a>
@@ -59,7 +59,7 @@
                         <div class="hero-text">
                             <h1>Get Your Passport Ready in No Time</h1>
                             <p>We prepare passports from regular photos, making it simple and affordable. Visit Nachosun
-                                Ke-Nya Cyber for fast, professional services that save you time.</p>
+                                Ke-Nya for fast, professional services that save you time.</p>
                             <div class="button">
                                 <a href="#services" class="btn">View Our Work</a>
                             </div>
@@ -92,8 +92,8 @@
             <!-- About Features -->
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="about-features">
-                    <h2>About Nachosun Ke-Nya Cyber</h2>
-                    <p>At Nachosun Ke-Nya Cyber, we are dedicated to providing affordable and efficient online services
+                    <h2>About Nachosun Ke-Nya</h2>
+                    <p>At Nachosun Ke-Nya, we are dedicated to providing affordable and efficient online services
                         to our clients. Established with the vision of simplifying access to digital solutions, we offer
                         a wide range of services including document scanning, passport preparation, and various
                         administrative support services.
@@ -104,14 +104,14 @@
                         efficiently.</p>
 
                     <ul class="list">
-                        <li><i class="fa fa-check" aria-hidden="true"></i> Our mission is to empower our clients with
-                            easy access to essential online services while maintaining the highest standards of quality
-                            and integrity. We aim to be your trusted partner in navigating the digital landscape.</li>
-                        <li><i class="fa fa-check" aria-hidden="true"></i> We envision a future where every individual
-                            has seamless access to online services, contributing to a more connected and informed
-                            society.</li>
-                        <li><i class="fa fa-check" aria-hidden="true"></i> Your satisfaction is our top priority, and we
-                            work hard to ensure a positive experience.</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> NACHOSUN KE-NYA charges are 78% cheaper than
+                            normal  cafe</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> We are accessible anytime through whatsapp
+                            and we reply instantly</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> We give money back for documents printing
+                            incase need be.</li>
+                        <li><i class="fa fa-check" aria-hidden="true"></i> We offer students services, huduma services
+                            and wide range of  services at everyones comfort.</li>
                     </ul>
 
                 </div>
@@ -184,13 +184,13 @@
                                 </ul>
                             </li>
                             <li><strong>Application Fee:</strong> KES 1,500 payable via eCitizen</li>
-                            <li><strong>Nachosun Ke-nya Cyber Service Fee:</strong> KES 200</li>
+                            <li><strong>Nachosun Ke-nya  Service Fee:</strong> KES 200</li>
                         </ol>
 
                         <br><br>
 
                         <h3>Important to Note</h3>
-                        <p>You must choose courses with clusters below your cluster weight. Nachosun Ke-nya Cyber will
+                        <p>You must choose courses with clusters below your cluster weight. Nachosun Ke-nya  will
                             update you on how and where to get your cluster points average. A document containing
                             various cluster points will be available for you to select at your convenience.</p>
                         <p><strong>Note:</strong> There are approximately 3 revision phases that take place during the
@@ -228,7 +228,7 @@
                             <li><strong>KCPE Index/Birth Certificate Number</strong></li>
                             <li><strong>Course Code for the Course You Are Transferring To</strong></li>
                             <li><strong>Transfer Fee:</strong> KES 1,000 payable via eCitizen</li>
-                            <li><strong>Nachosun Ke-nya Cyber Service Fee:</strong> KES 200</li>
+                            <li><strong>Nachosun Ke-nya  Service Fee:</strong> KES 200</li>
                         </ol>
 
                         <br><br>
@@ -274,7 +274,7 @@
                                     <li><strong>Identification Card Photograph</strong></li>
                                     <li><strong>Email Address</strong></li>
                                     <li><strong>Phone Number</strong></li>
-                                    <li><strong>Nachosun Kenya Cyber Service Fee:</strong> KES 100</li>
+                                    <li><strong>Nachosun Kenya  Service Fee:</strong> KES 100</li>
                                 </ol>
                             </div>
 
@@ -302,13 +302,17 @@
 
                     <h4><a href="#">KRA RETURNS</a></h4>
                     <p>
-                        It is a requirement in the law - under the Income Tax Act. From your self-assessment, it enables
-                        you to know how much KRA owes you, if any. Enables you to know if you have any tax due and if
-                        so, how much.
-                        NOTE: kra returns must be filled,without which as a citizen you will be penalized
-
-
+                        It is a requirement in the law - under the Income Tax Act.
                     </p>
+                    <p>
+                        From your self-assessment, it enables you to know how much KRA owes you, if any. It also allows
+                        you to determine if you have any tax due and, if so, how much.
+                    </p>
+                    <p>
+                        <strong>NOTE:</strong> KRA returns must be filed; without filing, you may face penalties as a
+                        citizen.
+                    </p>
+
 
                     <br><br>
 
@@ -321,7 +325,7 @@
                                     <li><strong>KRA PIN Certificate</strong></li>
                                     <li><strong>KRA PIN Password</strong></li>
                                     <li><strong>Active Email for Password Retrieval</strong></li>
-                                    <li><strong>Nachosun Ke-nya Cyber Service Fee:</strong> KES 80</li>
+                                    <li><strong>Nachosun Ke-nya Service Fee:</strong> KES 80</li>
                                 </ol>
                             </div>
 
@@ -336,7 +340,7 @@
                         <ol>
                             <li><strong>Identification Card</strong></li>
                             <li><strong>Email Address</strong></li>
-                            <li><strong>Nachosun Ke-nya Cyber Service Fee:</strong> KES 200</li>
+                            <li><strong>Nachosun Ke-nya Service Fee:</strong> KES 200</li>
                         </ol>
                     </div>
 
@@ -359,11 +363,11 @@
 
                     <h4><a href="#">Universities admission letters</a></h4>
                     <p>
-                        NACHOSUN KE-NYA CYBER generates admission letter at every man cormfot, different universities
+                        NACHOSUN KE-NYA generates admission letter at every man cormfot, different universities
                         have different requirements and processes of acquiring admission letters but basic requirements
                         are personal data ,kcse index and kcse year
 
-                        STANDARD NACHOSUN KE-NYA CYBER is 120/=
+                        STANDARD NACHOSUN KE-NYA is 120/=
 
                         A STUDENT SHOULD GET ATLEAST 5 LETTERS,THIS NUMBER CAN VARY DUE TO UNIVERSITY DIFFERENT
                         REQUIREMENTS
@@ -409,7 +413,7 @@
                                 parents)</li>
                             <li><strong>Copy of sponsorship letter</strong> (in PDF, if sponsored in secondary school)
                             </li>
-                            <li><strong>Nachosun Ke-nya Cyber Service Fee:</strong> KES 450</li>
+                            <li><strong>Nachosun Ke-nya Service Fee:</strong> KES 450</li>
                         </ol>
                     </div>
                     <h3>
@@ -444,41 +448,41 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-12">
-                
-                    <h2>Get in Touch with Nachosun Ke-Nya Cyber</h2>
-                    <br>
-                    <p>We're here to assist you with all your digital service needs, from KRA PIN
-                        retrieval to document scanning and more. Reach out to us via the following
-                        methods, and let us help make your experience smooth and efficient.</p>
-                        <br><br>
 
-                    <div class="contact-details">
-                        <h4>Our Contact Information:</h4>
-                        <ul>
-                            <li><strong>Phone:</strong> +254 700 123 456</li>
-                            <li><strong>Email:</strong> <a
-                                    href="mailto:info@nachosuncyber.co.ke">info@nachosuncyber.co.ke</a>
-                            </li>
-                            <li><strong>Address:</strong> 123 Nairobi Street, Nairobi, Kenya</li>
-                        </ul>
-                    </div>
+                <h2>Get in Touch with Nachosun Ke-Nya</h2>
+                <br>
+                <p>We're here to assist you with all your digital service needs, from KRA PIN
+                    retrieval to document scanning and more. Reach out to us via the following
+                    methods, and let us help make your experience smooth and efficient.</p>
+                <br><br>
 
-                    <br><br>
+                <div class="contact-details">
+                    <h4>Our Contact Information:</h4>
+                    <ul>
+                        <li><strong>Phone:</strong> +254 700 123 456</li>
+                        <li><strong>Email:</strong> <a
+                                href="mailto:info@nachosuncyber.co.ke">info@nachosuncyber.co.ke</a>
+                        </li>
+                        <li><strong>Address:</strong> 123 Nairobi Street, Nairobi, Kenya</li>
+                    </ul>
+                </div>
 
-                    <div class="business-hours">
-                        <h4>Business Hours:</h4>
-                        <ul>
-                            <li>Monday to Friday: 9:00 AM – 6:00 PM</li>
-                            <li>Saturday: 10:00 AM – 4:00 PM</li>
-                            <li>Sunday: Closed</li>
-                        </ul>
-                    </div>
+                <br><br>
 
-                    
+                <div class="business-hours">
+                    <h4>Business Hours:</h4>
+                    <ul>
+                        <li>Monday to Friday: 5:00 AM – 1:00 PM</li>
+                        <li>Saturday: 10:00 AM – 4:00 PM</li>
+                        <li>Sunday: Closed</li>
+                    </ul>
                 </div>
 
 
-          
+            </div>
+
+
+
             <div class="col-lg-6 col-md-6 col-12">
                 <div class="consultation-image">
                     <img src="contact.png" alt="#">
@@ -512,7 +516,7 @@
                         <div class="single-slider">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                             <h2>John Mwangi <span>Cyber Security Specialist</span></h2>
-                            <p>Nachosun Cyber has been instrumental in helping me secure my business. Their services are
+                            <p>Nachosun has been instrumental in helping me secure my business. Their services are
                                 professional, reliable, and timely. I highly recommend them for any cyber security
                                 needs.</p>
                         </div>
@@ -521,7 +525,7 @@
                         <div class="single-slider">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                             <h2>Wanjiku Kamau <span>IT Consultant</span></h2>
-                            <p>I’ve been working with Nachosun Cyber for over a year, and I’ve always been impressed by
+                            <p>I’ve been working with Nachosun for over a year, and I’ve always been impressed by
                                 their attention to detail and commitment to client satisfaction. Their expertise is
                                 top-notch!</p>
                         </div>
@@ -530,7 +534,7 @@
                         <div class="single-slider">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                             <h2>Joseph Otieno <span>Entrepreneur</span></h2>
-                            <p>Nachosun Cyber's services have significantly improved our business operations by
+                            <p>Nachosun services have significantly improved our business operations by
                                 safeguarding our online presence. Their support is excellent, and I highly appreciate
                                 their work.</p>
                         </div>
@@ -539,7 +543,7 @@
                         <div class="single-slider">
                             <i class="fa fa-quote-left" aria-hidden="true"></i>
                             <h2>Faith Kiplagat <span>Freelance Web Developer</span></h2>
-                            <p>The team at Nachosun Cyber is professional and efficient. Their cybersecurity solutions
+                            <p>The team at Nachosun is professional and efficient. Their cybersecurity solutions
                                 have helped me protect my client websites from potential threats. I'm very satisfied
                                 with their service.</p>
                         </div>
