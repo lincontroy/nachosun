@@ -193,7 +193,7 @@
 <!-- Include Font Awesome CDN (if not already included) -->
 
 
-    <a href="https://wa.me/254704800563" class="whatsapp-icon" target="_blank">
+    <a href="https://wa.me/254796829262" class="whatsapp-icon" target="_blank">
     <i class="fa fa-whatsapp"></i>
 </a>
 	
